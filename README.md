@@ -30,7 +30,10 @@ well. images of the skills. Hope you like
 # Licence
 
 This project is licensed under the Apache 2.0 license; see the LICENSE.md file for more
-information # Contact ·Twitter:https://www.twitter.com/johandev0/ <br>
+information 
+# Contact 
+
+·Twitter:https://www.twitter.com/johandev0/ <br>
 · Instagram :https://www.instagram.com/johandev0/ <br>
 · GitHub: https://www.github.com/JohanDev0/ <br>
 · Gmail: <a
