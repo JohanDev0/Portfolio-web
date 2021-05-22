@@ -21,7 +21,7 @@ well. images of the skills. Hope you like
 
 # Author
 
-<li> David Cifuentes </li>
+<li> David Cifuentes (JohanDev0) </li>
 
 # Assistance
 <li> Kevin <a href="https://github.com/OpenVek">(OpenVek)</a></li>
@@ -33,4 +33,5 @@ This project is licensed under the Apache 2.0 license; see the LICENSE.md file f
 information # Contact ·Twitter:https://www.twitter.com/johandev0/ <br>
 · Instagram :https://www.instagram.com/johandev0/ <br>
 · GitHub: https://www.github.com/JohanDev0/ <br>
-· Gmail: <a href="mailto:Cifuentesdavid88@gmail.com subject?contacto&body = prueba email ">Cifuentesdavid88@gmail.com</a><br>
+· Gmail: <a
+  href="mailto:Cifuentesdavid88@gmail.com subject?contacto&body = prueba email ">Cifuentesdavid88@gmail.com</a><br>
